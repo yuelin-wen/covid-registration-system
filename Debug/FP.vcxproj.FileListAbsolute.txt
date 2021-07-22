@@ -1,0 +1,2 @@
+C:\Users\jerry\Desktop\FP\Debug\FP.exe
+C:\Users\jerry\Desktop\FP\Debug\FP.pdb
